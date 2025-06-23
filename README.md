@@ -10,6 +10,7 @@ http://localhost:4000/api/
 POST /auth/register
 
 Body:
+json
 {
   "first_name": "Ali",
   "last_name": "Valiyev",
